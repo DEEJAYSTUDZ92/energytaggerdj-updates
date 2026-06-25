@@ -3,7 +3,31 @@
   <channel>
     <title>EnergyTagger DJ Stable Updates</title>
     <link>https://deejaystudz92.github.io/energytaggerdj-updates/appcast.xml</link>
-    <description>Safe starter appcast for EnergyTagger DJ. No live updates are advertised.</description>
-    <language>en</language>
+    <description>Stable signed updates for EnergyTagger DJ.</description>
+    <item>
+      <title>EnergyTagger DJ v1.0.1 Read-Only Birthday Prep Edition</title>
+      <sparkle:version>Phase41</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>EnergyTagger DJ v1.0.1</h2>
+        <p>Signed update system test release.</p>
+        <ul>
+          <li>No tag-writing behavior changed.</li>
+          <li>Real-library tag writing remains blocked.</li>
+          <li>Serato crate modification remains blocked.</li>
+          <li>Updates require user confirmation.</li>
+          <li>Silent install remains disabled.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 25 Jun 2026 17:08:27 -0400</pubDate>
+      <enclosure
+        url="https://github.com/DEEJAYSTUDZ92/energytaggerdj-updates/releases/download/v1.0.1/EnergyTaggerDJ-v1.0.1.zip"
+        sparkle:edSignature="73gWhSB6QLzC0arAvkN3kvGVqEKs4/k+VFYVlEXCH33VGpz0b2+Pp3nbV7DeD97kI7gfVRO66n32GeNZgwq7Ag=="
+        sparkle:version="Phase41"
+        sparkle:shortVersionString="1.0.1"
+        length="4394226"
+        type="application/octet-stream" />
+    </item>
   </channel>
 </rss>

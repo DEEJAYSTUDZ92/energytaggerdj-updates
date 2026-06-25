@@ -1,16 +1,13 @@
-# Publish Checklist
+# EnergyTagger DJ v1.0.1 Publish Checklist
 
-Current phase: safe starter appcast only.
+- GitHub Release: v1.0.1
+- Asset: EnergyTaggerDJ-v1.0.1.zip
+- Appcast: appcast.xml
+- Feed: https://deejaystudz92.github.io/energytaggerdj-updates/appcast.xml
+- Source repo privacy: source remains private
+- User confirmation required: yes
+- Silent install disabled: yes
+- Real-library tag writing remains blocked: yes
+- Serato crate modification remains blocked: yes
 
-Before any live update is advertised:
-
-- Generate Sparkle signing material outside this repository and outside the app source project.
-- Put only the Sparkle public key in the app bundle.
-- Build a versioned EnergyTagger DJ release archive.
-- Sign the archive with Sparkle tools.
-- Generate an appcast that includes a valid signature.
-- Run a packaged-app update test.
-- Confirm real-library tag writing remains blocked.
-- Confirm Serato crate modification remains blocked.
-
-Do not upload app ZIPs, music files, Serato files, secrets, tokens, certificates, or signing keys during this starter feed phase.
+No MP3/music files, Serato files, secrets, tokens, private keys, or Apple certificates are part of this update feed repository.
