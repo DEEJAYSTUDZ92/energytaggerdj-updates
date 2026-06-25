@@ -1,0 +1,15 @@
+{
+  "appName": "EnergyTagger DJ",
+  "feedStatus": "starter-appcast-only",
+  "liveUpdatesEnabled": false,
+  "pagesBaseURL": "https://deejaystudz92.github.io/energytaggerdj-updates/",
+  "appcastURL": "https://deejaystudz92.github.io/energytaggerdj-updates/appcast.xml",
+  "containsReleaseItems": false,
+  "containsDownloadURL": false,
+  "githubReleaseCreated": false,
+  "appZipUploaded": false,
+  "musicFilesUploaded": false,
+  "seratoFilesUploaded": false,
+  "secretsUploaded": false,
+  "privateKeysUploaded": false
+}

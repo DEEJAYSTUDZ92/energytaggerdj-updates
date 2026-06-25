@@ -1,0 +1,37 @@
+# macOS noise
+.DS_Store
+
+# Never publish app archives until an approved release phase.
+*.zip
+*.dmg
+*.pkg
+
+# Never publish music/audio files.
+*.mp3
+*.m4a
+*.mp4
+*.aac
+*.wav
+*.aiff
+*.aif
+*.flac
+*.ogg
+
+# Never publish Serato data.
+*.crate
+*.crate.bak
+_Serato_/
+
+# Never publish secrets, credentials, signing material, or certificates.
+.env
+*.pem
+*.p12
+*.cer
+*.crt
+*.mobileprovision
+*.key
+id_rsa*
+id_ed25519*
+*token*
+*secret*
+*credential*
