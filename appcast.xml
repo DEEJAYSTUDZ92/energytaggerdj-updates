@@ -6,7 +6,7 @@
     <description>Stable signed updates for EnergyTagger DJ.</description>
     <item>
       <title>EnergyTagger DJ v1.0.2 Read-Only Birthday Prep Edition</title>
-      <sparkle:version>Phase43</sparkle:version>
+      <sparkle:version>10002</sparkle:version>
       <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
@@ -24,10 +24,10 @@
       <pubDate>Thu, 25 Jun 2026 21:46:14 +0000</pubDate>
       <enclosure
         url="https://github.com/DEEJAYSTUDZ92/energytaggerdj-updates/releases/download/v1.0.2/EnergyTaggerDJ-v1.0.2.zip"
-        sparkle:edSignature="/A3PqFgUM80mKeoXU7ep2jJ81XUGptnJINEXgx+EN0jUsDGMJttQXb9qHeB1XmP5MXvp9OiYYO4R+uUdMPU/Dw=="
-        sparkle:version="Phase43"
+        sparkle:edSignature="9oU2HUEl+15RlBqRD7OPbOW6YnpEpYmdySl/jbOX3Z9ov8oQbuQLb7wAs1XcGBhDrB8xcUidf7HPiJIKqCxQAA=="
+        sparkle:version="10002"
         sparkle:shortVersionString="1.0.2"
-        length="5477158"
+        length="5556363"
         type="application/octet-stream" />
     </item>
   </channel>
