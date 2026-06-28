@@ -6,7 +6,19 @@
     <description>Stable signed updates for EnergyTagger DJ.</description>
     <item>
       <title>EnergyTagger DJ v1.1.0</title>
-      <description>Staged Sparkle appcast candidate for EnergyTagger DJ v1.1.0. Not published.</description>
+      <description><![CDATA[
+        <h2>EnergyTagger DJ v1.1.0</h2>
+        <p>Public signed Sparkle update for EnergyTagger DJ v1.1.0.</p>
+        <ul>
+          <li>UI redesign foundation with professional dark/glass DJ utility styling.</li>
+          <li>Professional macOS app icon integration.</li>
+          <li>DJ MUSIC Library Organizer preview/read-only module.</li>
+          <li>Copied-test-folder scan preview and metadata validation presentation.</li>
+          <li>Smart Crate Builder, DJ Set Prep, and Serato Prep Checklist foundations remain planning/instruction-only.</li>
+          <li>Real-library writes, Serato crate writes, arbitrary scans, downloads, and production DB writes on launch remain blocked.</li>
+          <li>Updates require user confirmation.</li>
+        </ul>
+      ]]></description>
       <pubDate>Sun, 28 Jun 2026 00:00:00 -0400</pubDate>
       <enclosure
         url="https://github.com/DEEJAYSTUDZ92/energytaggerdj-updates/releases/download/v1.1.0/EnergyTaggerDJ-v1.1.0.zip"
