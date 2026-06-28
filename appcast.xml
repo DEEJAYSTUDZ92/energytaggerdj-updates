@@ -5,6 +5,18 @@
     <link>https://deejaystudz92.github.io/energytaggerdj-updates/appcast.xml</link>
     <description>Stable signed updates for EnergyTagger DJ.</description>
     <item>
+      <title>EnergyTagger DJ v1.1.0</title>
+      <description>Staged Sparkle appcast candidate for EnergyTagger DJ v1.1.0. Not published.</description>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 -0400</pubDate>
+      <enclosure
+        url="https://github.com/DEEJAYSTUDZ92/energytaggerdj-updates/releases/download/v1.1.0/EnergyTaggerDJ-v1.1.0.zip"
+        sparkle:version="11000"
+        sparkle:shortVersionString="1.1.0"
+        length="10494021"
+        type="application/octet-stream"
+        sparkle:edSignature="C0V3flg/tW6azKpErIo9mbPq6nxq0mZDK11I+/DcQyZGjjgzH3K4WvDYuZwIGy/ESVCL7odfGnbnj5/CTAZqBg==" />
+    </item>
+    <item>
       <title>EnergyTagger DJ v1.0.2 Read-Only Birthday Prep Edition</title>
       <sparkle:version>10002</sparkle:version>
       <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
